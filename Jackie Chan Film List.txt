@@ -86,10 +86,33 @@ Story of Kennedy Town
 A Kid From Tibet
 Angry Ranger
 Beauty and The Beast
+Center Stage
+Twin Dragons
+Shootout
+Kin Chan No Cinema Jack
+Thunderbolt
+Rumble In The Bronx
+Martin
+Mr. Nice Guy
+Understanding Time and Space
+Who Am I
+Hot War
+King of Comedy
+Gorgeous
+Tempting Heart
+Shanghai Noon
+The Accidental Spy
 
 Police Story Films
 Police Story
 Police Story 2
+Police Story 3 - Supercop
+Police Story 4 - First Strike
+Once a Cop
+City Hunter
+Crime Story
+Gen-X-Cops
+Gen-Y-Cops
 
 The Armour of God Films
 The Armour of God
@@ -100,5 +123,13 @@ Project Films
 Project A
 Project A 2
 
+Drunken Master Films
+Drunken Master
+Drunken Master 2
+
+Rush Hour Films
+Rush Hour
+Rush Hour 2
+Rush Hour 3
 
 Unreleased
