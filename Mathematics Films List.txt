@@ -8,6 +8,7 @@ Mathematical Thrillers
 - The Perfect Number
 - P = NP
 - Primer
+- Greek Fire
 
 Mathematical Biographical Dramas
 
