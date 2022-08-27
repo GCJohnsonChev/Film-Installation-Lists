@@ -1,4 +1,9 @@
-Thrillers
+Mathematical Thrillers
 
 - The Number 23
 - Pi
+- The Secret Number
+- Enigma Society
+- Code Conspiracy
+- The Perfect Number
+- P = NP
