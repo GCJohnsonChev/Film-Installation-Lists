@@ -1,4 +1,4 @@
-Dracula
+Bram Stoker's Dracula
 Lost Boys
 Blade
 Underworld
@@ -12,3 +12,6 @@ The League of Extaordinary Gentleman
 Day Breakers
 Night Teeth
 True Blood
+CyberCity Oedo
+Dark Shadows
+Innocent Blood
